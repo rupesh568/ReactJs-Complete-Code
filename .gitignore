@@ -1,0 +1,12 @@
+# Ignore all node_modules in all sub-projects
+node_modules/
+
+# Environment files
+.env
+
+# Build outputs
+dist/
+build/
+
+# OS / editor files
+.DS_Store
